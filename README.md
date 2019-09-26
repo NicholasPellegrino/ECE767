@@ -29,6 +29,10 @@ Performance Evaluation:
 
 Evaluate RMSEIn the report,
 
-please include the following:Matlab codePlot showing the truth and estimated trajectoriesPlot showing the RMSE
+please include the following:
+
+Matlab code 
+Plot showing the truth and estimated trajectories 
+Plot showing the RMSE
 
 Due date: October17, 2019
