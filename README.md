@@ -1,10 +1,12 @@
 # ECE767
 Multitarget Tracking and Multisensor Information Fusion
 
-
 Assignment 1 
 
-Implement a nearest-neighbor EKFor CMKFtracker for the following scenario:Target:
+Implement a nearest-neighbor EKFor CMKFtracker for the following scenario:
+
+Target:
+
 Single target moving with a constant velocity model.
 
 Sensor: 
@@ -27,7 +29,7 @@ Use EKF or CMKF filtering
 
 Performance Evaluation:
 
-Evaluate RMSEIn the report,
+Evaluate RMSE In the report,
 
 please include the following:
 
